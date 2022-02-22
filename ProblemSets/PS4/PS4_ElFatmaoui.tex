@@ -1,0 +1,75 @@
+%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%
+%This is a blank document for homework assignments.
+
+%Some preliminaries:  Anything after a '%' is a comment - it isn't read by 
+%the compiler.  
+
+%You are welcome to skip down to lines 38-44 to put in some information, and 
+%then to line 57 to start writing, but the preamble contains all the 
+%formatting that makes it look nice, if you're interested in how that works.
+
+%Packages are just collections of commands to do different things.  For
+%almost anything you might want to do, there's a package that will do it.
+%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%
+
+
+\documentclass[12pt]{article}  
+%The article class is a very basic type of document for writing
+%We will customize it to do what we want.
+
+\usepackage[margin=1in]{geometry}  %Adjust margins, formatting
+
+\usepackage{amsmath}  
+\usepackage{amssymb}  
+\usepackage{amsfonts}  
+%These packages add commands for useful symbols and fonts and things like that.
+%Most of the time, these are all you need.
+
+\usepackage{textcomp, gensymb}  %Gives more symbols, like /degree
+
+\usepackage{amsthm}
+
+\usepackage{fancyhdr}  %Header and Footer formatting
+\pagestyle{fancy}  
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\setlength{\headheight}{18pt}
+
+%Header and Footer Information
+\lhead{\large{\bf Ahmed}}  %Replace with your name
+\chead{ PS3}
+\rhead{\textsc{ECON 5313}}  %Replace "Title" with the name of the assignment
+\lfoot{\today}  %You can let it put in today's date or put one in yourself
+\cfoot{}
+\rfoot{\thepage\ of \ref{NumPages}}  %Counts the pages.
+
+\makeatletter        %This provides a total page count as \ref{NumPages}                 
+\AtEndDocument{\immediate\write\@auxout{\string\newlabel{NumPages}{{\thepage}}}}
+\makeatother
+
+\usepackage{amsthm}  %This will create the Problem environment
+\theoremstyle{definition}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{Solution}
+
+
+
+\begin{document}
+
+\begin{enumerate}
+\item I'd like to use webscraping tools to scrape data from NCES. They have the documentations on how to. used their API here: "https://data-nces.opendata.arcgis.com/pages/use-apis". I think that the fact that we learned about JSON and rvest will enable me to follow their instructions.
+
+\item 
+
+Q6-7\\
+df1 is a tibble (tbl$\_$df), and
+df is apark type (tbl$\_$spark)
+
+Q6-8\\
+- df1  has a dot as a separation link (ex. Sepal.Length)\\
+- df  has a dash as a separation link (ex. Sepal$\_$Length)
+The difference can be due to the class of each table
+
+\end{enumerate}
+ 
+\end{document}
