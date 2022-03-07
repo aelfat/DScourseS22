@@ -1,0 +1,147 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={PS5},
+  pdfauthor={Ahmed},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+\usepackage{xcolor}
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{PS5}
+\author{Ahmed}
+\date{3/7/2022}
+
+\begin{document}
+\maketitle
+
+\hypertarget{scraped-data}{%
+\subsection{Scraped data}\label{scraped-data}}
+
+I used webscraping to extract weed prices available in priceofweed.com
+through Wayback Machine.
+
+\begin{tabular}{l|r|r|l}
+\hline
+quality\_type & price & Year & Jurisdictions\\
+\hline
+High Quality & 447.00 & 2010 & Alabama\\
+\hline
+Medium Quality & 161.43 & 2010 & Alabama\\
+\hline
+High Quality & 290.00 & 2010 & Alaska\\
+\hline
+Medium Quality & 142.50 & 2010 & Alaska\\
+\hline
+High Quality & 381.40 & 2010 & Arizona\\
+\hline
+Medium Quality & 258.74 & 2010 & Arizona\\
+\hline
+\end{tabular}
+
+\hypertarget{price-of-weed-trend}{%
+\subsection{Price of weed trend}\label{price-of-weed-trend}}
+
+The average national price of medium and high quality marijuana
+decreased gradually between 2010 and 2015 and then increased steeply
+fnor no more than a year. The prices seem to be stable starting from
+2016, period in which many states legalized marijuana.
+
+\includegraphics{PS5_ElFatmaoui_files/figure-latex/unnamed-chunk-2-1.pdf}
+
+\hypertarget{score-card-api}{%
+\subsection{score card API}\label{score-card-api}}
+
+I downloaded the enrollment data for all the colleges in Oklahoma (tile
+IV institutions) for the years 2017 and 2019. We examine the admission
+rate trends three year before the pandemic took place. The source
+doesn't have data for 2020 year.
+
+\begin{tabular}{r|l|l|r|r|r|r|r}
+\hline
+unitid & instnm & zip & latitude & longitude & ugds & adm\_rate & year\\
+\hline
+206817 & Bacone College & 74403-1597 & 35.77708 & -95.33405 & 934 & 0.7285 & 2017\\
+\hline
+206835 & Oklahoma Wesleyan University & 74006-6299 & 36.71745 & -95.95671 & 1006 & 0.6231 & 2017\\
+\hline
+206862 & Southern Nazarene University & 73008 & 35.51329 & -97.62950 & 1520 & NA & 2017\\
+\hline
+206905 & Pontotoc Technology Center & 74820 & 34.74840 & -96.68381 & 93 & NA & 2017\\
+\hline
+206914 & Cameron University & 73505-6377 & 34.60649 & -98.43416 & 3793 & NA & 2017\\
+\hline
+206923 & Carl Albert State College & 74953-5208 & 35.03917 & -94.63399 & 1550 & NA & 2017\\
+\hline
+\end{tabular}
+
+\end{document}
