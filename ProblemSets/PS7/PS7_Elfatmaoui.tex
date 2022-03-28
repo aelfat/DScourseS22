@@ -1,0 +1,102 @@
+%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%
+%This is a blank document for homework assignments.
+
+%Some preliminaries:  Anything after a '%' is a comment - it isn't read by 
+%the compiler.  
+
+%You are welcome to skip down to lines 38-44 to put in some information, and 
+%then to line 57 to start writing, but the preamble contains all the 
+%formatting that makes it look nice, if you're interested in how that works.
+
+%Packages are just collections of commands to do different things.  For
+%almost anything you might want to do, there's a package that will do it.
+%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%
+
+
+\documentclass[12pt]{article}  
+%The article class is a very basic type of document for writing
+%We will customize it to do what we want.
+
+\usepackage[margin=1in]{geometry}  %Adjust margins, formatting
+
+\usepackage{amsmath}  
+\usepackage{amssymb}  
+\usepackage{amsfonts}  
+%These packages add commands for useful symbols and fonts and things like that.
+%Most of the time, these are all you need.
+
+\usepackage{textcomp, gensymb}  %Gives more symbols, like /degree
+
+\usepackage{amsthm}
+
+\usepackage{fancyhdr}  %Header and Footer formatting
+\pagestyle{fancy}  
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\setlength{\headheight}{18pt}
+
+%Header and Footer Information
+\lhead{\large{\bf Ahmed}}  %Replace with your name
+\chead{ PS7}
+\rhead{\textsc{ECON 5313}}  %Replace "Title" with the name of the assignment
+\lfoot{\today}  %You can let it put in today's date or put one in yourself
+\cfoot{}
+\rfoot{\thepage\ of \ref{NumPages}}  %Counts the pages.
+
+\makeatletter        %This provides a total page count as \ref{NumPages}                 
+\AtEndDocument{\immediate\write\@auxout{\string\newlabel{NumPages}{{\thepage}}}}
+\makeatother
+
+\usepackage{amsthm}  %This will create the Problem environment
+\theoremstyle{definition}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{Solution}
+
+
+
+
+
+\begin{document}
+
+\begin{enumerate}
+
+\item[8]  
+It looks like imputation methods vary in hgc hat magnitude with complete, predicted and Mice methods providing better estimates. One should avoid using the mean imputation as it results in a higher bias. 
+
+\begin{table}
+\centering
+\begin{tabular}[h!]{lcccc} 
+\hline  \\[-1.2ex]
+  & complete & Mean & Predicted & Mice\\ \\[-1.2ex]
+\hline \\[-1.2ex]
+hgc & \num{0.062} & \num{0.050} & \num{0.062} & \num{0.060}\\
+ & (\num{0.005}) & (\num{0.004}) & (\num{0.004}) & (\num{0.005})\\
+collegenot college grad & \num{0.145} & \num{0.168} & \num{0.145} & \num{0.106}\\
+ & (\num{0.034}) & (\num{0.026}) & (\num{0.025}) & (\num{0.029})\\
+tenure & \num{0.050} & \num{0.038} & \num{0.050} & \num{0.043}\\
+ & (\num{0.005}) & (\num{0.004}) & (\num{0.004}) & (\num{0.004})\\
+I(tenure\textasciicircum2) & \num{-0.002} & \num{-0.001} & \num{-0.002} & \num{-0.001}\\
+ & (\num{0.000}) & (\num{0.000}) & (\num{0.000}) & (\num{0.000})\\
+age & \num{0.000} & \num{0.000} & \num{0.000} & \num{0.001}\\
+ & (\num{0.003}) & (\num{0.002}) & (\num{0.002}) & (\num{0.002})\\
+marriedsingle & \num{-0.022} & \num{-0.027} & \num{-0.022} & \num{-0.019}\\
+ & (\num{0.018}) & (\num{0.014}) & (\num{0.013}) & (\num{0.015})\\
+ (Intercept) & \num{0.534} & \num{0.708} & \num{0.534} & \num{0.582}\\
+ & (\num{0.146}) & (\num{0.116}) & (\num{0.112}) & (\num{0.130})\\
+\midrule  \\[-1.2ex] 
+Num.Obs. & \num{1669} & \num{2229} & \num{2229} & \num{2229}\\
+R2 & \num{0.208} & \num{0.147} & \num{0.277} & \num{0.228}\\
+R2 Adj. & \num{0.206} & \num{0.145} & \num{0.275} & \num{0.225}\\
+AIC & \num{1179.9} & \num{1091.2} & \num{925.5} & \num{1621.3}\\
+BIC & \num{1223.2} & \num{1136.8} & \num{971.1} & \num{1667.0}\\
+Log.Lik. & \num{-581.936} & \num{-537.580} & \num{-454.737} & \num{-802.646}\\
+F & \num{72.917} & \num{63.973} & \num{141.686} & \num{109.084}\\
+\hline
+\end{tabular}
+\end{table}
+
+\item[9]  
+I'm currently using IPEDS in conjuction with other sources for covariates such as Census Bureau, BEA and SAIPE. The data panel made it possible to use Diff-in-Diff with fixed effects to study the impact of marijuana legalization on educational performance, fall enrollment for now. Other outcome to consider include admission, graduation , and completion rate or counts.
+\end{enumerate}
+ 
+\end{document}

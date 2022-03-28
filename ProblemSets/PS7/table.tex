@@ -1,0 +1,106 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+	
+\usepackage[landscape]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Enrollment regression},
+  pdfauthor={Ahmed},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{Enrollment regression}
+\author{Ahmed}
+\date{2/11/2022}
+
+\begin{document}
+
+\begin{table}
+\centering
+\begin{tabular}[t]{lcccc}
+\toprule
+  & complete & Mean & Predicted & Mice\\
+\midrule
+(Intercept) & \num{0.534} & \num{0.708} & \num{0.534} & \num{0.582}\\
+ & (\num{0.146}) & (\num{0.116}) & (\num{0.112}) & (\num{0.130})\\
+hgc & \num{0.062} & \num{0.050} & \num{0.062} & \num{0.060}\\
+ & (\num{0.005}) & (\num{0.004}) & (\num{0.004}) & (\num{0.005})\\
+collegenot college grad & \num{0.145} & \num{0.168} & \num{0.145} & \num{0.106}\\
+ & (\num{0.034}) & (\num{0.026}) & (\num{0.025}) & (\num{0.029})\\
+tenure & \num{0.050} & \num{0.038} & \num{0.050} & \num{0.043}\\
+ & (\num{0.005}) & (\num{0.004}) & (\num{0.004}) & (\num{0.004})\\
+I(tenure\textasciicircum2) & \num{-0.002} & \num{-0.001} & \num{-0.002} & \num{-0.001}\\
+ & (\num{0.000}) & (\num{0.000}) & (\num{0.000}) & (\num{0.000})\\
+age & \num{0.000} & \num{0.000} & \num{0.000} & \num{0.001}\\
+ & (\num{0.003}) & (\num{0.002}) & (\num{0.002}) & (\num{0.002})\\
+marriedsingle & \num{-0.022} & \num{-0.027} & \num{-0.022} & \num{-0.019}\\
+ & (\num{0.018}) & (\num{0.014}) & (\num{0.013}) & (\num{0.015})\\
+\midrule
+Num.Obs. & \num{1669} & \num{2229} & \num{2229} & \num{2229}\\
+R2 & \num{0.208} & \num{0.147} & \num{0.277} & \num{0.228}\\
+R2 Adj. & \num{0.206} & \num{0.145} & \num{0.275} & \num{0.225}\\
+AIC & \num{1179.9} & \num{1091.2} & \num{925.5} & \num{1621.3}\\
+BIC & \num{1223.2} & \num{1136.8} & \num{971.1} & \num{1667.0}\\
+Log.Lik. & \num{-581.936} & \num{-537.580} & \num{-454.737} & \num{-802.646}\\
+F & \num{72.917} & \num{63.973} & \num{141.686} & \num{109.084}\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\end{document}
