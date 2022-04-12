@@ -1,0 +1,166 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={PS8},
+  pdfauthor={Ahmed},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+\usepackage{xcolor}
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{PS8}
+\author{Ahmed}
+\date{04/04/2022}
+
+\begin{document}
+\maketitle
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi})}
+  \setcounter{enumi}{6}
+  \tightlist
+  \item
+    The dimension of your training data (housing\_train) is 404 by 74 (N
+    rows, N columns). There are 59 more X variables
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi})}
+  \setcounter{enumi}{7}
+  \tightlist
+  \item
+  \end{enumerate}
+\end{itemize}
+
+\begin{tabular}{l|l|r|l}
+\hline
+.metric & .estimator & .estimate & .config\\
+\hline
+rmse & standard & 0.3898085 & Preprocessor1\_Model1\\
+\hline
+rsq & standard & NA & Preprocessor1\_Model1\\
+\hline
+\end{tabular}
+
+\begin{tabular}{l|l|r|r|r|l}
+\hline
+.metric & .estimator & mean & n & std\_err & .config\\
+\hline
+rmse & standard & 0.1435125 & 10 & 0.0098843 & Preprocessor1\_Model1\\
+\hline
+\end{tabular}
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi})}
+  \setcounter{enumi}{8}
+  \tightlist
+  \item
+  \end{enumerate}
+\end{itemize}
+
+\begin{tabular}{l|l|r|l}
+\hline
+.metric & .estimator & .estimate & .config\\
+\hline
+rmse & standard & 0.2184031 & Preprocessor1\_Model1\\
+\hline
+rsq & standard & 0.7163029 & Preprocessor1\_Model1\\
+\hline
+\end{tabular}
+
+\begin{tabular}{l|l|r|r|r|l}
+\hline
+.metric & .estimator & mean & n & std\_err & .config\\
+\hline
+rmse & standard & 0.0933611 & 10 & 0.0072377 & Preprocessor1\_Model1\\
+\hline
+\end{tabular}
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi})}
+  \setcounter{enumi}{9}
+  \tightlist
+  \item
+    We cannot do such estimation with linear regression but we can using
+    LASSO or Ridge. I don't think the results are good as we have high
+    variance, RMSE of out sample is considerably different from the RMSE
+    of in sample.
+  \end{enumerate}
+\end{itemize}
+
+\end{document}
