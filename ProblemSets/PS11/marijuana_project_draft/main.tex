@@ -1,0 +1,279 @@
+\documentclass[12pt]{article}%
+\usepackage{natbib}
+\usepackage[doublespacing]{setspace}
+\usepackage[margin=1in]{geometry}
+%\usepackage[sc]{titlesec}
+\usepackage{booktabs,hyperref,threeparttablex}
+\usepackage{multirow}
+\usepackage{tabularx}
+%\usepackage[nomarkers, nolists]{endfloat}
+\usepackage{siunitx}%for digit rounding
+\sisetup{
+        detect-mode,
+        tight-spacing           = true,
+        group-digits            = false,
+        input-signs             = ,
+        input-symbols           = ,
+        input-open-uncertainty  = ,
+        input-close-uncertainty = ,
+        table-align-text-pre    = false,
+        round-mode              = places,
+        round-precision         = 3,
+        table-space-text-pre    = (,
+        table-space-text-post   = ),
+        }
+\usepackage{adjustbox}
+
+\usepackage{color,soul}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tikz}
+\usepackage{arydshln}
+\usepackage{graphicx}
+\usepackage{pdflscape}
+
+\usepackage{ amsthm,mathrsfs}
+\usepackage{amssymb,latexsym,exscale}
+%\usepackage{graphics,graphicx}
+
+\usepackage{subcaption}
+\usepackage{times}
+\usepackage{cool}
+\usepackage{color}
+% \usepackage[bottom,flushmargin,hang,multiple]{footmisc}
+\usepackage{etoolbox}
+\usepackage{color,soul}
+
+\usepackage{graphicx}
+\usepackage{placeins}
+
+\usepackage{epstopdf}
+\usepackage{floatrow}
+\usepackage{siunitx}
+
+\usepackage{graphicx}
+\usepackage{float}
+
+\usepackage{placeins} % place items in the right position
+%\usepackage[font=small,skip=0pt]{caption} 
+%opening
+
+\usepackage{subfiles} % Best loaded last in the preamble
+
+
+\usepackage{appendix}
+
+%% put caption on top %%%%%%%%%%%%%%%%%%
+\usepackage{floatrow}
+\floatsetup[table]{capposition=top}
+\floatsetup[figure]{capposition=top}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+\begin{document}
+\setcounter{page}{0}
+%\thanks{}
+\title{Recreational marijuana pervasiveness and student influx and outflux to college }
+\author{Ahmed El Fatmaoui}
+
+\date{February 2022}
+\maketitle
+\thispagestyle{empty}
+
+
+
+
+\singlespacing
+\textbf{Abstract:} 
+How does the pervasiveness of recreational marijuana legalization (RML) affects education outcomes, enrollments and completion? we utilize  institution level surveys, enrollment and completion from IPEDS, along with Difference-in-Difference\footnote{i'm also trying to use synthetic controls but I run into some issues related to having more than one level data, county and school units} identification to answer this question. The findings show that RML increased enrollment especially after practical implementation of the policy, but it has a negative effect on completion among non-STEM majors also after retail stores are open. Hence, we document an evidence that RML stimulates an influx toward colleges but depresses outflux to college education among non-STEM majors. The latter findings are related to undergraduate education, associate and bachelor levels. 
+ 
+
+\strut
+ 
+
+\noindent \textbf{Keywords: RML, STEM, IPEDS, Difference-in-Difference, influx, outflux, associate and bachelor} 
+
+\noindent \textbf{} 
+
+
+\newpage
+\doublespacing
+\section{Introduction}
+
+%% MM Vs. RM
+The pervasiveness of recreational marijuana legalization (RML) has become a controversial subject among politicians, researchers, and citizens. 
+%% consumption and crime
+Whereas medical marijuana (MM) has long been permissible in many states, legal in more than 30 states as of 2020 according to \cite{kinaSUR}, recreational marijuana (RM) has been legalized by merely 12 states as of 2020 \citep{kinaSUR}. The literature studied the effect of MM on different aspects extensively. Whereas\cite{wen2015effect,cerda2012medical,martins2016state} results showed that MM legalization leads to a higher use and addiction of marijuana, \cite{morris2014effect, gavrilova2019legal}  found that MM legalization have no effect on crime or even reduce certain crime rates such as that of  homicides and rape. Using Twitter data, \cite{kinaSUR} showed that consumption or use of marijuana concentrates are higher in states that legalized marijuana for recreational or medical use.  
+
+
+%Monitoring The Future (MTF) survey results
+In 2018-2019 academic year, over 20 percent of high school seniors reported vaping marijuana according to \cite{National_Institute_on_Drug_Abuse2019-wl}; the latter expressed alarming concerns about THC,a psychoactive ingredient of marijuana, vaping as not much is known about the effect of this THC vaping as opposed to smoking. Furthermore, the ubiquity of marijuana through recreational legalization have shifted cultural beliefs regarding marijuana usage among college students \citep{koval2019perceived}. According to \cite{pearson2018personality}, college culture that considers marijuana usage as an integral part of college experience (internalized norm) plays a major rule in how impulisvity and sensation seeking personality traits lead to more marijuana consumption among college students. In addition, there is a similar but high trend of marijuana usage among college and non-college youth with 44 percent of college students reported using marijuana and similar percentage (43 percent) of non-college youth \citep{schulenberg2021monitoring}.
+In light of the growing marijuana usage among college students along with the cultural shift inducing more marijuana consumption among college students, we intend to examine how RML affects undergraduate enrollments 
+\footnote{ We will also attempt to study other outcomes such as completion and graduation rates as IPEDS provide those outcomes, but we shall focus for now on enrollment outcome since the literature to the best of our knowledge didn't cover enrollment. }
+by using a panel data from IPEDS and various other sources. We also study heterogeneous effects on gender, enrollment by age, and enrollment types. Although it's difficult to pinpoint the exact mechanisms driving our results as marijuana consumption can be induced by many factors such as student's personality, prior drugs consumption , college drugs related culture, and regulation enforcement by local or college authorities, we will at least attempt to demonstrate that the observed effects are due in fact to marijuana consumption. 
+
+%% some related work 
+The literature examined the effect of marijuana legalization on educational outcomes, but non to our knowledge considered enrollment and most focus on limited geographical location without taking into account the legalization shocks cross states.
+ Using data from a cohort of 3246 students from 11 colleges in only two states, North Carolina and Virginia, \cite{suerken2016marijuana} examined the effect of marijuana use trajectories on academic outcomes (senior year enrollment, plans to graduate on time, and GPA). The findings show that compared to non-users, marijuana users of different consumption patterns have low likelihood of continued enrollment in senior years, low likelihood to plan to graduate from college on time, and lower GPAs on average. Nonetheless, this study doesn't not  take into consideration whether or not North Carolina and Virginia states legalized recreational marijuana. In this paper we focus on determining the effect of marijuana pervasiveness on academic outcomes, influx of students from high school to college in particular. In the same vein, marijuana use is negatively associated with GPA and graduation time through low class attendance \citep{arria2015academic}. Further, compared to non-users, marijuana users are more likely to drop out or finish the program late \citep{suerken2016marijuana}.
+
+Nonetheless, the effect of the proliferation of marijuana  legalization, mediated by an increase in consumption, on educational outcomes  is scant. Only few studies examined this effect. \citet{marie2017high} used a unique dataset of students grades in Maastricht city in the Netherlands and exploited the introduction of a policy that banned foreign nationalities from buying marijuana 
+\footnote{The city wanted to tackle the negative externalities associated with cannabis tourism through banning all nationalities but locals, Germans, and Belgians from purchasing marijuana at local shops.} 
+Their results align with the health studies that showed that marijuana consumption affects cognitive abilities essentially and consequently impact the quantitative
+performance. They also used class evaluation data to prove that the improvements in the grade among banned students were merely due to improved understanding in the classrooms. The
+placebo test for robustness check solidifies the findings, switching the policy time and placing false nationalities for the ban. 
+\cite{cerda2017association}  investigates the use and the perceived harm of recreational marijuana (RM) among 8th and 10th graders. Using diff-in-diff specification to study how RM legalization in Washington and Colorado states, the first to legalize marijuana, affected high school student consumption of marijuana along with the associated harm perception, they found that marijuana use (perceived marijuana harm) among 8th and 10th graders in Washington increased (decreased); they found though no significant difference in use pre and post RML in Colorado. We contribute to this literature by first using institution, community colleges, colleges, and universities, level data (IPEDS) coupled with county level covariates which enable controlling for time and county level fixed effects as well as institution characteristics. While it's arguable whether the shock is exogenous as social movements could have triggered states to legalize RM, we exploit the panel format of the data through using diff-in-diff and synthetic control \footnote{I'm still learning this method, so it may be implemented if time allows} specifications. We also use falsification or placebo tests for further robustness check\footnote{i'm thinking about assigning the policy shock to random states and regenerate my results, but I haven't done this yet}.
+
+Our finding show that states that legalized marijuana are attracting more college students; states that legalized RM have about 5 percent more first time enrollment than states that did not legalize RM. With the growing internalization norms of marijuana use in colleges, we hypothesis that high school students especially those majoring in non-STEM programs choose to complete their undergraduate education in states that legalized marijuana for recreational use. Further, first time enrollment is greatly affected after the policy is in effect for more than two years, the time upon which the policy is implemented by opening dispensaries. Further, the implemented legalization has no effect overall on the number of degrees conferred, but we find a negative effect on non-STEM bachelor degree counts, suggesting that STEM majors are not affected by the policy intervention. 
+
+
+The paper proceeds as follow. In the next section, we discuss related literature. The third section presents data and summary statistics followed by the model equation and description. Finally, we present the results, discussion and conclusion. 
+
+
+
+
+
+
+
+\section{Literature review}
+
+Since the acceptance to enroll in medical marijuana program is heterogeneous in that states differ in the degree at which they enforce pharmaceutical standards, \cite{williams2016older} found that among the 23 states that legalized MM, 14 states can be characterized as non-medical as their programs are nearly unregulated.
+
+As more and more states are legalizing marijuana for recreational use, the latter is receiving more attention in the past few years. Exploiting the legalization times and border sharing between two states, Oregon and Washington, \cite{dragone2019crime} used combined discontinuity design and difference-in-differences specifications to show that RML caused reduction in crimes, especially rape which is associated with alcohol consumption.
+
+CRIME RELATED
+
+HEALTH RELATED
+
+based on national representative survey of 16,280 adults,\cite{ishida2019substitution} found that among the sub-sample that declared consuming both opioids and marijuana 41 percent of these opioid users switch to marijuana. In the same vein,
+\cite{mathur2022marijuana} showed an existence of positive association between marijuana dispensaries and opioid deaths. Figure \ref{fig:drug} shows a positive association between drug deaths per 100K individuals and google search for dispensary location popularity. 
+
+EDUC REALTED
+%----------------------------
+\section{Background and Data}
+%----------------------------
+Figure \ref{fig:mari_consumpt} (b) illustrates an increase of google search for word or marijuana store locations "dispensary" as more state legalized marijuana for recreational use. The same figure (a) shows higher google trend for dispensary in states that legalized RM. In light of pervasiveness of marijuana legalization, we aim to investigate the effect of RML on post secondary education outcomes, namely the influx of students to post-secondary education. 
+
+\subsection{Policy definition}
+
+We used different sources to establish the time upon which each sate legalized RM. We also take into account the year in which the law is implemented, opening first dispensary stores. Based on \cite{kinaSUR}, \cite{mpp}, \cite{kim2020retail} ,and online searches,  Figure \ref{fig:legal} depicts the time line of marijuana legalization by each state. We distinguish between the year in which the legalization became legal (law) and the year in which the law went into effect by distributing retail licences (first store or dispensary evidence). States that legalized marijuana by law but didn't implement the law are excluded from the data so that our study focuses on states that legalized marijuana not just legally but also practically, opening dispensaries.
+Among all the states that legalized marijuana within our data period (2009-2019), six states satisfy the practical legalization condition: Colorado, Washington, Oregon, California, Massachusetts, and Nevada.
+
+\subsection{Fall enrollment}
+The National Center for Education Statistics (NCES) conducts each year twelve interrealated educational surveys, known as Integrated Postsecondary Education Data System (IPEDS). The latter is the main source of our data. We extracted and joined relevant surveys (enrollment and directory or institution characteristics) year by year from 2009 to 2019. The latter is chosen because IPEDS added the county geographical information to the survey starting from 2009; we also avoided using post pandemic periods so as to focus merely on the RM shock. 
+
+The enrollment survey \cite{ipeds} includes both higher education and vocational institutions; we omitted the latter by restricting the sample to two year programs or above, excluding all institutions that are listed as career or vocational based on the institution name, including institutions that have at least 50 overall enrollments as most if not all the colleges and universities meet this threshold. We posit that colleges of less than 50 students in all the departments is too small and its enrollments can be affected by the management decisions. The threshold is needed also for practical reasons as we study the effects of RM on different groups, sex and race.  We also included the institution characteristics survey to control for differences such as college size and geographical zones.
+
+\subsection{degree Completion}
+Completions survey  contains the number of awards by institution, type of program, type of major (first or second), and award level. For our analysis we focus on the first major awards for associate and bachelor programs. We bind the cross-sections of the survey from 2009 to 2019. We restrict the sample to post-secondary intuitions by excluding career and vocational institutions. Further we classify type of program to STEM (Science, technology, engineering, and mathematics) and NON-STEM programs to examine any potential heterogeneous effects. We use STEM definition of SMART program by the Department of Defense that deems its defined STEM programs as critical to the national security \citep{smartscholarship}.
+
+\subsection{Google trends}
+Google trends \footnote{The following post by Simon Rogers, a Data journalist and Data Editor at Google as of 2016, provides further details about google trend data: \href{https://medium.com/google-news-lab/what-is-google-trends-data-and-what-does-it-mean-b48f07342ee8}{What is Google Trends data — and what does it mean?} }
+refers to a normalized number, refer to as hits, that's between zero and hundred, depicting the popularity of a search for a word among other searches at a each state and time, year. Google trend measures are based on unbiased samples of all the google searches. We use the google trends measures related to the word "Dispensary" as a proxy for the demand for marijuana because people usually look up the location of marijuana stores by searching the word "Dispensary".  We also use other google search terms for robustness check: the average hits for "marijuana", "weed", and "pot". Nonetheless, we posit that "Dispensary" search is the most relevant word as it usually refers to where people buy marijuana. 
+
+\subsection{Other variables}
+
+
+We incorporate two county level covariates, the population and real per-capita income ,from Bureau of Economic Analysis (BEA)\footnote{We extracted BEA series through an R package, \href{https://www.bea.gov/resources/for-developers}{"bea.R"}. } We also used the Bureau of Labor Statistics (BLS) county level data to control for unemployment rate. \cite{hillman2013community} found positive association between undergraduate enrollments and unemployment rate. 
+
+
+
+
+
+\section{Model}
+
+We use difference in difference specification with fixed effects  (time, state and county) and covariates related to county level demographics and institution level characteristics.
+%+ t \times \phi_{k} + t \times \gamma_{j} 
+\begin{align}
+Y_{ikjt} &= \alpha + \beta_1 \text{RM}_{jt} + \beta_2 \text{MM}_{jt}  + \delta X_{kjt}  + \delta Z_{ikjt} + \phi_{k}+ \theta_t +\epsilon_{ikjt}\\
+Y_{ikjt} &= \alpha + \beta_{11} \text{RM12}_{jt} + \beta_{12} \text{RM3+}_{jt} + \beta_2 \text{MM}_{jt}  + \delta X_{kjt}  + \delta Z_{ikjt} + \phi_{k}+ \theta_t +\epsilon_{ikjt}
+\end{align}
+
+% %+ \gamma_{j} + \phi_{k}+ \theta_t + t*\phi_{k} + t*\gamma_{j}
+% \begin{align}
+% Y_{ikjt}=\alpha + \beta_1 \text{RM}_{jt} * HU_{jt} + \beta_2 \text{MM}_{jt} * HU_{jt} + HU_{jt} + \delta X_{kjt}  + \delta Z_{ikjt} +\phi_{k} + \theta_t + \epsilon_{ikjt}
+% \end{align}
+
+
+where $Y_{ijkt}$ refers to the the outcomes of interest, first time fall enrollment and degree completion counts for institution $i$ in  county $k$ and state $j$ at time $t$. $RM_{jt}$ is a dummy variable for the adoption of recreational marijuana law; it is assigned one if state $j$ legalized marijuana at or after time $t$. Similarly, $MM_{jt}$ is a binary variable for the adoption of medical marijuana law. $MM$ and $RM$ are staggered dummies in that $RM$ represents a continuation of $MM$. 
+We also use variation of equation (1) by splitting RM dummy into short and long term dummies; the former (RM12) is assigned one if the policy (RM) is adopted within the previous two years; the long term binary (RM3+) is assigned one if the policy takes place after two years. 
+
+$X$ and $Z$ refer to all baseline county and college covariates which we control for. We also control for county level fixed effects,$\phi_{k}$, and time fixed effect,$\theta_t$ 
+
+%$DISP_{jt}$ refers to the logged google trend popularity of the word "Dispensary" in state $j$ at time $t$. 
+
+
+
+
+
+\subsection{Common trend assumption}
+
+The validity of our specification hinges primarily on parallel trend assumption; although figures visualizing pre-treatment outcome by group depicts that this assumption is nearly valid (see figure \ref{fig:trend}), we implement \cite{abadie2005semiparametric}  and  \cite{prince2017impact} test and found that  the coefficient of the interaction of time and treatment dummy is insignificant (see table \ref{table:ct}). Note that in the latter table the sample is restricted to the pre-shock period, so the insignificance of the interaction terms provides more support to the claim that common trend assumption holds. 
+
+
+\section{Results}
+
+Overall states that legalized marijuana seem to attract more college enrollments especially in the long term. Table \ref{table:fe} (panel A) shows that compared to states that didn't legalize marijuana for recreational use, states that did have about 5.4 percent more first time enrollment; said another way, first time enrollment (total enrollment) changes or increases by 5.4 (9.7) percent as states switch from being Not-RM to RM.
+
+When we break down the effect into short, the past two years of legalization, and long term, after the 2nd year of legalization, we notice that the first time enrollment is only positively affected in the long term so that RM states seem to attract more enrollment only after the policy went into effect for more than two years (see table \ref{table:sl}). Also, the magnitude of enrollment changes is higher in the long term. One potential explanation is that states that legalize RM take about one to two years to implement the policy and eventually giving licences for dispensaries. For instance, as shown in figure \ref{fig:legal} Colorado legalized marijuana for recreational use in 2012 but the first marijuana store was open in 2014. 
+
+Even though RM policy has no effect on overall number of degrees conferred, it has negative effect on number of bachelor degrees or awards upon implementation of the policy, after two years of policy intervention (see table \ref{table:compl}). The number of bachelor completion decreases by about 16.3 percent as states switch to RM legalization after 2 years.  The latter result is driven by non-STEM program completion as shown in table \ref{tab:stem}. One possible explanation for this finding is the existence of sample selection in STEM program completion. STEM majors are known to require intense technical and quantitative skills, so only highly qualified students choose to pursue this type of programs. While we have no evidence to show the STEM majored students consume less marijuana or none compared to their counterpart, non STEM majored students, one can also argue that STEM programs provide better success incentives. For instance, the Department of defense SMART's program provide full tuition, summer internships, mentoring services, and other benefits\footnote{source: \href{https://dodstem.us/participate/smart/}{SMART program benefits}} for qualified STEM majored students
+
+
+
+\section{Discussion and conclusion} 
+
+\begin{itemize}
+\item need to show higher marijuana consumption if RM states
+
+
+  
+    \item mechanisms for higher enrollment: shift in college culture and perception of marijuana harm (cite papers here)
+    \item further mechanisms for lower bachelor completion (NOT SURE!) among non-stem students; it's intuitive that non-stem are more likely to over-consumer marijuana but I need to find some evidence for that. 
+    
+    \item implication for policy makers and college boards
+\end{itemize}
+
+
+\newpage
+\section*{Figures and tables} 
+\subsection{Figures}
+\subfile{figures}
+
+\newpage
+\subsection{Tables}
+\subfile{tables_enrol}
+
+
+
+
+
+
+\appendix
+\section*{Appendix}
+ 
+ 
+
+
+
+
+
+
+
+\newpage
+%\singlespacing
+\setlength\bibsep{0pt}
+\bibliographystyle{chicago}
+\bibliography{references.bib}
+
+
+
+
+
+\end{document}
+
+
+
+

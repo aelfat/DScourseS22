@@ -1,0 +1,824 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Jefferson County, AL"	"01073"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	13921	Unreliable
+	"Jefferson County, AL"	"01073"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	13779	Unreliable
+	"Jefferson County, AL"	"01073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	12413	Unreliable
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	14	121969	Unreliable
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	12	108346	Unreliable
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	20	115284	17.3
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	26	111732	23.3
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	23	116727	19.7
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	28	126406	22.2
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	25	113427	22.0
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	27	119416	22.6
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	40	113968	35.1
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	19	118663	Unreliable
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	18	114552	Unreliable
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	25	110501	22.6
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	18	120417	Unreliable
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	28	116236	24.1
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	35	122395	28.6
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	31	113796	27.2
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	24	116743	20.6
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	39	113412	34.4
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	11	108859	Unreliable
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	15	114814	Unreliable
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	22	110272	20.0
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	17	112403	Unreliable
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	36	110374	32.6
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	16	120237	Unreliable
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	37	115561	32.0
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	32	118504	27.0
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	31	113025	27.4
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	30	113645	26.4
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	43	113489	37.9
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	25931	Unreliable
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	10	25422	Unreliable
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	32055	Unreliable
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	13	25249	Unreliable
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	25077	Unreliable
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	32251	Unreliable
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	13	28340	Unreliable
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	13	25584	Unreliable
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	16	25140	Unreliable
+	"Alameda County, CA"	"06001"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	32358	Unreliable
+	"Fresno County, CA"	"06019"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	22946	Unreliable
+	"Kern County, CA"	"06029"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	24294	Unreliable
+	"Kern County, CA"	"06029"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	23911	Unreliable
+	"Kern County, CA"	"06029"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	21357	Unreliable
+	"Los Angeles County, CA"	"06037"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	14	273656	Unreliable
+	"Los Angeles County, CA"	"06037"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	10	254879	Unreliable
+	"Los Angeles County, CA"	"06037"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	19	266093	Unreliable
+	"Los Angeles County, CA"	"06037"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	28	255860	10.9
+	"Los Angeles County, CA"	"06037"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	18	276935	Unreliable
+	"Los Angeles County, CA"	"06037"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	32	293406	10.9
+	"Los Angeles County, CA"	"06037"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	29	268084	10.8
+	"Los Angeles County, CA"	"06037"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	53	280887	18.9
+	"Los Angeles County, CA"	"06037"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	59	270440	21.8
+	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	18	255014	Unreliable
+	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	23	262523	8.8
+	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	23	253407	9.1
+	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	22	281017	7.8
+	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	29	291610	9.9
+	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	33	269645	12.2
+	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	38	274523	13.8
+	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	57	268198	21.3
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	14	266812	Unreliable
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	14	269302	Unreliable
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	20	257112	7.8
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	20	254663	7.9
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	38	284858	13.3
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	35	288990	12.1
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	40	270726	14.8
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	30	267846	11.2
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	52	268899	19.3
+	"Orange County, CA"	"06059"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	10	82905	Unreliable
+	"Orange County, CA"	"06059"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	18	86042	Unreliable
+	"Orange County, CA"	"06059"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	18	82931	Unreliable
+	"Orange County, CA"	"06059"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	20	86138	23.2
+	"Orange County, CA"	"06059"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	74301	Unreliable
+	"Orange County, CA"	"06059"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	19	84338	Unreliable
+	"Orange County, CA"	"06059"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	27	87573	30.8
+	"Orange County, CA"	"06059"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	14	84790	Unreliable
+	"Orange County, CA"	"06059"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	22	83276	26.4
+	"Orange County, CA"	"06059"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	24	85995	27.9
+	"Orange County, CA"	"06059"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	20	75576	26.5
+	"Orange County, CA"	"06059"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	21	81285	25.8
+	"Orange County, CA"	"06059"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	35	85592	40.9
+	"Orange County, CA"	"06059"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	12	84431	Unreliable
+	"Orange County, CA"	"06059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	18	84478	Unreliable
+	"Orange County, CA"	"06059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	23	85588	26.9
+	"Orange County, CA"	"06059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	76498	Unreliable
+	"Orange County, CA"	"06059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	17	78290	Unreliable
+	"Orange County, CA"	"06059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	18	84979	Unreliable
+	"Riverside County, CA"	"06065"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	60223	Unreliable
+	"Riverside County, CA"	"06065"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	58338	Unreliable
+	"Riverside County, CA"	"06065"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	55088	Unreliable
+	"Riverside County, CA"	"06065"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	60258	Unreliable
+	"Riverside County, CA"	"06065"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	20	62411	32.0
+	"Riverside County, CA"	"06065"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	59394	Unreliable
+	"Riverside County, CA"	"06065"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	61976	Unreliable
+	"Riverside County, CA"	"06065"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	59107	Unreliable
+	"Riverside County, CA"	"06065"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	20	61678	32.4
+	"Riverside County, CA"	"06065"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	10	56619	Unreliable
+	"Riverside County, CA"	"06065"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	60005	Unreliable
+	"Riverside County, CA"	"06065"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	60293	Unreliable
+	"Riverside County, CA"	"06065"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	56763	Unreliable
+	"Riverside County, CA"	"06065"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	58451	Unreliable
+	"Riverside County, CA"	"06065"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	62223	Unreliable
+	"Sacramento County, CA"	"06067"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	17	33405	Unreliable
+	"Sacramento County, CA"	"06067"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	16	34390	Unreliable
+	"Sacramento County, CA"	"06067"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	13	34175	Unreliable
+	"Sacramento County, CA"	"06067"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	13	33562	Unreliable
+	"Sacramento County, CA"	"06067"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	33214	Unreliable
+	"Sacramento County, CA"	"06067"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	14	33470	Unreliable
+	"Sacramento County, CA"	"06067"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	11	31687	Unreliable
+	"Sacramento County, CA"	"06067"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	12	32315	Unreliable
+	"Sacramento County, CA"	"06067"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	13	33916	Unreliable
+	"Sacramento County, CA"	"06067"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	33323	Unreliable
+	"San Bernardino County, CA"	"06071"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	13	55040	Unreliable
+	"San Bernardino County, CA"	"06071"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	64890	Unreliable
+	"San Bernardino County, CA"	"06071"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	22	55766	39.5
+	"San Bernardino County, CA"	"06071"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	15	53682	Unreliable
+	"San Bernardino County, CA"	"06071"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	58665	Unreliable
+	"San Bernardino County, CA"	"06071"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	53065	Unreliable
+	"San Bernardino County, CA"	"06071"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	17	54362	Unreliable
+	"San Bernardino County, CA"	"06071"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	53524	Unreliable
+	"San Bernardino County, CA"	"06071"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	65815	Unreliable
+	"San Diego County, CA"	"06073"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	16	81409	Unreliable
+	"San Diego County, CA"	"06073"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	19	81963	Unreliable
+	"San Diego County, CA"	"06073"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	16	114095	Unreliable
+	"San Diego County, CA"	"06073"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	16	98966	Unreliable
+	"San Diego County, CA"	"06073"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	23	84854	27.1
+	"San Diego County, CA"	"06073"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	17	85166	Unreliable
+	"San Diego County, CA"	"06073"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	22	84342	26.1
+	"San Diego County, CA"	"06073"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	11	80296	Unreliable
+	"San Diego County, CA"	"06073"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	18	80790	Unreliable
+	"San Diego County, CA"	"06073"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	114692	Unreliable
+	"San Diego County, CA"	"06073"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	21	100740	20.8
+	"San Diego County, CA"	"06073"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	86150	Unreliable
+	"San Diego County, CA"	"06073"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	29	83876	34.6
+	"San Diego County, CA"	"06073"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	24	83246	28.8
+	"San Diego County, CA"	"06073"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	11	92457	Unreliable
+	"San Diego County, CA"	"06073"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	12	80908	Unreliable
+	"San Diego County, CA"	"06073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	19	115896	Unreliable
+	"San Diego County, CA"	"06073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	102254	Unreliable
+	"San Diego County, CA"	"06073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	16	87515	Unreliable
+	"San Diego County, CA"	"06073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	19	82630	Unreliable
+	"San Diego County, CA"	"06073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	20	83296	24.0
+	"San Francisco County, CA"	"06075"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	27145	Unreliable
+	"San Francisco County, CA"	"06075"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	13	22328	Unreliable
+	"San Francisco County, CA"	"06075"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	26780	Unreliable
+	"San Francisco County, CA"	"06075"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	14	22585	Unreliable
+	"San Joaquin County, CA"	"06077"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	16633	Unreliable
+	"Santa Clara County, CA"	"06085"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	41274	Unreliable
+	"Ventura County, CA"	"06111"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	25419	Unreliable
+	"Ventura County, CA"	"06111"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	23764	Unreliable
+	"Ventura County, CA"	"06111"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	22246	Unreliable
+	"Denver County, CO"	"08031"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	23940	Unreliable
+	"Denver County, CO"	"08031"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	22023	Unreliable
+	"Denver County, CO"	"08031"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	16919	Unreliable
+	"Denver County, CO"	"08031"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	27636	Unreliable
+	"Denver County, CO"	"08031"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	24502	Unreliable
+	"Denver County, CO"	"08031"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	22220	Unreliable
+	"Denver County, CO"	"08031"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	17563	Unreliable
+	"Denver County, CO"	"08031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	13	18213	Unreliable
+	"El Paso County, CO"	"08041"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	18270	Unreliable
+	"Hartford County, CT"	"09003"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	26114	Unreliable
+	"Hartford County, CT"	"09003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	21177	Unreliable
+	"Hartford County, CT"	"09003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	25159	Unreliable
+	"Hartford County, CT"	"09003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	24475	Unreliable
+	"New Haven County, CT"	"09009"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	19738	Unreliable
+	"New Haven County, CT"	"09009"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	21920	Unreliable
+	"New Haven County, CT"	"09009"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	22624	Unreliable
+	"New Haven County, CT"	"09009"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	21569	Unreliable
+	"New Haven County, CT"	"09009"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	20886	Unreliable
+	"New Haven County, CT"	"09009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	14	24073	Unreliable
+	"Brevard County, FL"	"12009"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	12802	Unreliable
+	"Brevard County, FL"	"12009"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	11859	Unreliable
+	"Brevard County, FL"	"12009"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	15926	Unreliable
+	"Brevard County, FL"	"12009"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	12606	Unreliable
+	"Brevard County, FL"	"12009"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	10662	Unreliable
+	"Brevard County, FL"	"12009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	19	12071	Unreliable
+	"Brevard County, FL"	"12009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	14	10979	Unreliable
+	"Broward County, FL"	"12011"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	19	47192	Unreliable
+	"Broward County, FL"	"12011"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	31451	Unreliable
+	"Broward County, FL"	"12011"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	19	35203	Unreliable
+	"Broward County, FL"	"12011"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	34994	Unreliable
+	"Broward County, FL"	"12011"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	20	42264	47.3
+	"Broward County, FL"	"12011"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	32	47489	67.4
+	"Broward County, FL"	"12011"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	11	34603	Unreliable
+	"Broward County, FL"	"12011"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	12	34159	Unreliable
+	"Broward County, FL"	"12011"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	10	40173	Unreliable
+	"Broward County, FL"	"12011"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	12	45582	Unreliable
+	"Broward County, FL"	"12011"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	19	35156	Unreliable
+	"Broward County, FL"	"12011"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	14	34881	Unreliable
+	"Broward County, FL"	"12011"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	40521	Unreliable
+	"Broward County, FL"	"12011"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	25	45707	54.7
+	"Broward County, FL"	"12011"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	12	39254	Unreliable
+	"Broward County, FL"	"12011"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	12	44811	Unreliable
+	"Broward County, FL"	"12011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	16	35252	Unreliable
+	"Broward County, FL"	"12011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	17	39425	Unreliable
+	"Broward County, FL"	"12011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	24	44982	53.4
+	"Collier County, FL"	"12021"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	7189	Unreliable
+	"Duval County, FL"	"12031"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	20058	Unreliable
+	"Duval County, FL"	"12031"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	19516	Unreliable
+	"Duval County, FL"	"12031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	19	19403	Unreliable
+	"Duval County, FL"	"12031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	18806	Unreliable
+	"Hillsborough County, FL"	"12057"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	12	34005	Unreliable
+	"Hillsborough County, FL"	"12057"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	35485	Unreliable
+	"Hillsborough County, FL"	"12057"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	15	33265	Unreliable
+	"Hillsborough County, FL"	"12057"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	21	33766	62.2
+	"Hillsborough County, FL"	"12057"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	17	30716	Unreliable
+	"Hillsborough County, FL"	"12057"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	14	34387	Unreliable
+	"Hillsborough County, FL"	"12057"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	35222	Unreliable
+	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	14	33858	Unreliable
+	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	11	30756	Unreliable
+	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	11	34684	Unreliable
+	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	14	33523	Unreliable
+	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	20	33602	59.5
+	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	17	30999	Unreliable
+	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	33760	Unreliable
+	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	18	34612	Unreliable
+	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	11	32733	Unreliable
+	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	12	34531	Unreliable
+	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	15	34006	Unreliable
+	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	21	33802	62.1
+	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	13	31622	Unreliable
+	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	18	33261	Unreliable
+	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	20	34656	57.7
+	"Lee County, FL"	"12071"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	16773	Unreliable
+	"Lee County, FL"	"12071"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	16065	Unreliable
+	"Lee County, FL"	"12071"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	12	14788	Unreliable
+	"Lee County, FL"	"12071"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	14010	Unreliable
+	"Manatee County, FL"	"12081"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	6746	Unreliable
+	"Miami-Dade County, FL"	"12086"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	63262	Unreliable
+	"Miami-Dade County, FL"	"12086"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	64125	Unreliable
+	"Miami-Dade County, FL"	"12086"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	16	72935	Unreliable
+	"Miami-Dade County, FL"	"12086"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	14	78052	Unreliable
+	"Miami-Dade County, FL"	"12086"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	64311	Unreliable
+	"Miami-Dade County, FL"	"12086"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	74211	Unreliable
+	"Miami-Dade County, FL"	"12086"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	65508	Unreliable
+	"Orange County, FL"	"12095"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	34957	Unreliable
+	"Orange County, FL"	"12095"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	29380	Unreliable
+	"Orange County, FL"	"12095"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	30538	Unreliable
+	"Orange County, FL"	"12095"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	14	34711	Unreliable
+	"Orange County, FL"	"12095"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	29858	Unreliable
+	"Orange County, FL"	"12095"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	30278	Unreliable
+	"Orange County, FL"	"12095"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	34230	Unreliable
+	"Orange County, FL"	"12095"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	18	30210	Unreliable
+	"Orange County, FL"	"12095"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	29758	Unreliable
+	"Palm Beach County, FL"	"12099"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	21	26610	78.9
+	"Palm Beach County, FL"	"12099"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	18	27026	Unreliable
+	"Palm Beach County, FL"	"12099"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	26	26001	100.0
+	"Palm Beach County, FL"	"12099"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	18	30978	Unreliable
+	"Palm Beach County, FL"	"12099"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	23	34540	66.6
+	"Palm Beach County, FL"	"12099"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	10	23702	Unreliable
+	"Palm Beach County, FL"	"12099"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	17	26995	Unreliable
+	"Palm Beach County, FL"	"12099"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	27524	Unreliable
+	"Palm Beach County, FL"	"12099"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	22	30169	72.9
+	"Palm Beach County, FL"	"12099"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	36	33370	107.9
+	"Palm Beach County, FL"	"12099"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	33357	Unreliable
+	"Palm Beach County, FL"	"12099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	16	27519	Unreliable
+	"Palm Beach County, FL"	"12099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	23	28001	82.1
+	"Palm Beach County, FL"	"12099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	29168	Unreliable
+	"Palm Beach County, FL"	"12099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	19	33011	Unreliable
+	"Pasco County, FL"	"12101"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	11	14556	Unreliable
+	"Pasco County, FL"	"12101"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	13	10711	Unreliable
+	"Pasco County, FL"	"12101"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	11035	Unreliable
+	"Pasco County, FL"	"12101"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	14559	Unreliable
+	"Pasco County, FL"	"12101"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	14285	Unreliable
+	"Pasco County, FL"	"12101"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	10020	Unreliable
+	"Pasco County, FL"	"12101"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	14	10495	Unreliable
+	"Pasco County, FL"	"12101"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	11066	Unreliable
+	"Pasco County, FL"	"12101"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	13581	Unreliable
+	"Pasco County, FL"	"12101"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	16	14133	Unreliable
+	"Pasco County, FL"	"12101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	10006	Unreliable
+	"Pasco County, FL"	"12101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	13	10287	Unreliable
+	"Pasco County, FL"	"12101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	11225	Unreliable
+	"Pasco County, FL"	"12101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	13020	Unreliable
+	"Pasco County, FL"	"12101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	14086	Unreliable
+	"Pinellas County, FL"	"12103"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	13	27147	Unreliable
+	"Pinellas County, FL"	"12103"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	18897	Unreliable
+	"Pinellas County, FL"	"12103"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	25	20980	119.2
+	"Pinellas County, FL"	"12103"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	16	18958	Unreliable
+	"Pinellas County, FL"	"12103"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	23092	Unreliable
+	"Pinellas County, FL"	"12103"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	21	26590	79.0
+	"Pinellas County, FL"	"12103"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	10	21554	Unreliable
+	"Pinellas County, FL"	"12103"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	16	18887	Unreliable
+	"Pinellas County, FL"	"12103"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	16	21112	Unreliable
+	"Pinellas County, FL"	"12103"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	23	19131	120.2
+	"Pinellas County, FL"	"12103"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	21	22089	95.1
+	"Pinellas County, FL"	"12103"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	18	25479	Unreliable
+	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	13	20630	Unreliable
+	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	12	20890	Unreliable
+	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	16	18827	Unreliable
+	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	19	20924	Unreliable
+	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	23	19569	117.5
+	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	17	21281	Unreliable
+	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	25018	Unreliable
+	"Polk County, FL"	"12105"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	15720	Unreliable
+	"Sarasota County, FL"	"12115"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	7055	Unreliable
+	"Sarasota County, FL"	"12115"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	7333	Unreliable
+	"Volusia County, FL"	"12127"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	12887	Unreliable
+	"Volusia County, FL"	"12127"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	11525	Unreliable
+	"Volusia County, FL"	"12127"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	12	11174	Unreliable
+	"Volusia County, FL"	"12127"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	10309	Unreliable
+	"Volusia County, FL"	"12127"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	11851	Unreliable
+	"Fulton County, GA"	"13121"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	17857	Unreliable
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	13	50736	Unreliable
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	13	117469	Unreliable
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	13	114731	Unreliable
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	18	38768	Unreliable
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	27	39594	68.2
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	20	125714	15.9
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	30	155162	19.3
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	35	137910	25.4
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	36	128180	28.1
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	33	121399	27.2
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	11	48854	Unreliable
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	11	151695	Unreliable
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	11	129746	Unreliable
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	11	113253	Unreliable
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	11	35999	Unreliable
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	12	37931	Unreliable
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	34	38260	88.9
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	25	125386	19.9
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	29	156223	18.6
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	31	139763	22.2
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	38	126710	30.0
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	31	120196	25.8
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	10	131920	Unreliable
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	19	37860	Unreliable
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	30	124342	24.1
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	40	154845	25.8
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	38	141127	26.9
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	40	125441	31.9
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	27	120433	22.4
+	"DuPage County, IL"	"17043"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	15	24241	Unreliable
+	"DuPage County, IL"	"17043"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	24759	Unreliable
+	"Lake County, IL"	"17097"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	13	22135	Unreliable
+	"Lake County, IL"	"17097"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	19494	Unreliable
+	"Lake County, IL"	"17097"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	16994	Unreliable
+	"Will County, IL"	"17197"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	16481	Unreliable
+	"Will County, IL"	"17197"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	16230	Unreliable
+	"Marion County, IN"	"18097"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	13	28125	Unreliable
+	"Marion County, IN"	"18097"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	13	23261	Unreliable
+	"Marion County, IN"	"18097"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	21889	Unreliable
+	"Marion County, IN"	"18097"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	21352	Unreliable
+	"Jefferson Parish, LA"	"22051"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	10271	Unreliable
+	"Anne Arundel County, MD"	"24003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	14	14115	Unreliable
+	"Baltimore County, MD"	"24005"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	18151	Unreliable
+	"Baltimore County, MD"	"24005"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	17979	Unreliable
+	"Baltimore County, MD"	"24005"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	16919	Unreliable
+	"Baltimore County, MD"	"24005"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	13	16881	Unreliable
+	"Baltimore County, MD"	"24005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	16805	Unreliable
+	"Baltimore County, MD"	"24005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	16419	Unreliable
+	"Baltimore city, MD"	"24510"	"2008"	"2008"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	13	15373	Unreliable
+	"Baltimore city, MD"	"24510"	"2008"	"2008"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	10	11033	Unreliable
+	"Baltimore city, MD"	"24510"	"2008"	"2008"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	10	12833	Unreliable
+	"Baltimore city, MD"	"24510"	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	14	12277	Unreliable
+	"Bristol County, MA"	"25005"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	11	20318	Unreliable
+	"Bristol County, MA"	"25005"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	17	17215	Unreliable
+	"Bristol County, MA"	"25005"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	19197	Unreliable
+	"Bristol County, MA"	"25005"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	19588	Unreliable
+	"Bristol County, MA"	"25005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	14283	Unreliable
+	"Essex County, MA"	"25009"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	17482	Unreliable
+	"Essex County, MA"	"25009"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	24614	Unreliable
+	"Essex County, MA"	"25009"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	12	17649	Unreliable
+	"Essex County, MA"	"25009"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	23683	Unreliable
+	"Essex County, MA"	"25009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	17153	Unreliable
+	"Hampden County, MA"	"25013"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	10028	Unreliable
+	"Middlesex County, MA"	"25017"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	18	40303	Unreliable
+	"Middlesex County, MA"	"25017"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	14	39832	Unreliable
+	"Middlesex County, MA"	"25017"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	14	42974	Unreliable
+	"Middlesex County, MA"	"25017"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	22	47714	46.1
+	"Middlesex County, MA"	"25017"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	41130	Unreliable
+	"Middlesex County, MA"	"25017"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	44555	Unreliable
+	"Middlesex County, MA"	"25017"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	18	40613	Unreliable
+	"Middlesex County, MA"	"25017"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	14	46186	Unreliable
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	41098	Unreliable
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	45069	Unreliable
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	41131	Unreliable
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	16	45445	Unreliable
+	"Norfolk County, MA"	"25021"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	14822	Unreliable
+	"Norfolk County, MA"	"25021"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	13	15255	Unreliable
+	"Norfolk County, MA"	"25021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	14346	Unreliable
+	"Norfolk County, MA"	"25021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	20419	Unreliable
+	"Suffolk County, MA"	"25025"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	21082	Unreliable
+	"Suffolk County, MA"	"25025"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	16610	Unreliable
+	"Suffolk County, MA"	"25025"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	29313	Unreliable
+	"Suffolk County, MA"	"25025"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	14912	Unreliable
+	"Worcester County, MA"	"25027"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	19699	Unreliable
+	"Worcester County, MA"	"25027"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	28166	Unreliable
+	"Worcester County, MA"	"25027"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	23314	Unreliable
+	"Worcester County, MA"	"25027"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	20047	Unreliable
+	"Worcester County, MA"	"25027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	13	19779	Unreliable
+	"Macomb County, MI"	"26099"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	12	22804	Unreliable
+	"Macomb County, MI"	"26099"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	19	22076	Unreliable
+	"Macomb County, MI"	"26099"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	26202	Unreliable
+	"Macomb County, MI"	"26099"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	22	28173	78.1
+	"Macomb County, MI"	"26099"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	10	24518	Unreliable
+	"Macomb County, MI"	"26099"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	20787	Unreliable
+	"Macomb County, MI"	"26099"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	17	21885	Unreliable
+	"Macomb County, MI"	"26099"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	14	21884	Unreliable
+	"Macomb County, MI"	"26099"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	20	24929	80.2
+	"Macomb County, MI"	"26099"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	18	27246	Unreliable
+	"Macomb County, MI"	"26099"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	26818	Unreliable
+	"Macomb County, MI"	"26099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	21010	Unreliable
+	"Macomb County, MI"	"26099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	17	21640	Unreliable
+	"Macomb County, MI"	"26099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	24008	Unreliable
+	"Macomb County, MI"	"26099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	26673	Unreliable
+	"Oakland County, MI"	"26125"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	24766	Unreliable
+	"Oakland County, MI"	"26125"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	20	32816	60.9
+	"Oakland County, MI"	"26125"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	36564	Unreliable
+	"Oakland County, MI"	"26125"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	14	36005	Unreliable
+	"Oakland County, MI"	"26125"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	14	24681	Unreliable
+	"Oakland County, MI"	"26125"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	14	26864	Unreliable
+	"Oakland County, MI"	"26125"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	35134	Unreliable
+	"Oakland County, MI"	"26125"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	13	28190	Unreliable
+	"Oakland County, MI"	"26125"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	34454	Unreliable
+	"Wayne County, MI"	"26163"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	11	31659	Unreliable
+	"Wayne County, MI"	"26163"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	10	33618	Unreliable
+	"Wayne County, MI"	"26163"	"2008"	"2008"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	12	23658	Unreliable
+	"Wayne County, MI"	"26163"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	13	32309	Unreliable
+	"Wayne County, MI"	"26163"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	17	30706	Unreliable
+	"Wayne County, MI"	"26163"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	16	35149	Unreliable
+	"Wayne County, MI"	"26163"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	22	37630	58.5
+	"Wayne County, MI"	"26163"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	10	30485	Unreliable
+	"Wayne County, MI"	"26163"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	12	32448	Unreliable
+	"Wayne County, MI"	"26163"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	13	34396	Unreliable
+	"Wayne County, MI"	"26163"	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	10	22934	Unreliable
+	"Wayne County, MI"	"26163"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	20	30034	66.6
+	"Wayne County, MI"	"26163"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	12	30856	Unreliable
+	"Wayne County, MI"	"26163"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	17	30399	Unreliable
+	"Wayne County, MI"	"26163"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	24	33610	71.4
+	"Wayne County, MI"	"26163"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	19	36145	Unreliable
+	"Wayne County, MI"	"26163"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	14	29863	Unreliable
+	"Wayne County, MI"	"26163"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	14	29572	Unreliable
+	"Wayne County, MI"	"26163"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	12	33785	Unreliable
+	"Wayne County, MI"	"26163"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	20	30304	66.0
+	"Wayne County, MI"	"26163"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	20	30157	66.3
+	"Wayne County, MI"	"26163"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	17	30203	Unreliable
+	"Wayne County, MI"	"26163"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	32210	Unreliable
+	"Wayne County, MI"	"26163"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	14	35249	Unreliable
+	"Hennepin County, MN"	"27053"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	38870	Unreliable
+	"Jackson County, MO"	"29095"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	16077	Unreliable
+	"St. Charles County, MO"	"29183"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	10008	Unreliable
+	"St. Louis County, MO"	"29189"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	11	25140	Unreliable
+	"St. Louis County, MO"	"29189"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	20588	Unreliable
+	"St. Louis County, MO"	"29189"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	23799	Unreliable
+	"St. Louis County, MO"	"29189"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	21	22320	94.1
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	10	56337	Unreliable
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	13	53669	Unreliable
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	13	50642	Unreliable
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	14	47927	Unreliable
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	49373	Unreliable
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	22	60287	36.5
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	19	56911	Unreliable
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	59762	Unreliable
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	32	57116	56.0
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	10	52386	Unreliable
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	23	50316	45.7
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	12	48981	Unreliable
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	17	48523	Unreliable
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	19	59226	Unreliable
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	18	57148	Unreliable
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	17	58997	Unreliable
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	23	56939	40.4
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	10	45658	Unreliable
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	15	52555	Unreliable
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	19	52728	Unreliable
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	21	50527	41.6
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	18	48345	Unreliable
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	19	57373	Unreliable
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	13	57173	Unreliable
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	18	57373	Unreliable
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	22	56909	38.7
+	"Washoe County, NV"	"32031"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	12351	Unreliable
+	"Camden County, NJ"	"34007"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	12504	Unreliable
+	"Camden County, NJ"	"34007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	11521	Unreliable
+	"Gloucester County, NJ"	"34015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	6874	Unreliable
+	"Ocean County, NJ"	"34029"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	17078	Unreliable
+	"Bernalillo County, NM"	"35001"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	11	18074	Unreliable
+	"Bernalillo County, NM"	"35001"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	20907	Unreliable
+	"Bernalillo County, NM"	"35001"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	19	21701	Unreliable
+	"Bernalillo County, NM"	"35001"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	21	18302	114.7
+	"Bernalillo County, NM"	"35001"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	18	18262	Unreliable
+	"Bernalillo County, NM"	"35001"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	17	18648	Unreliable
+	"Bernalillo County, NM"	"35001"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	20581	Unreliable
+	"Bernalillo County, NM"	"35001"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	21834	Unreliable
+	"Bernalillo County, NM"	"35001"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	13	18300	Unreliable
+	"Bernalillo County, NM"	"35001"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	10	21165	Unreliable
+	"Bernalillo County, NM"	"35001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	17	21500	Unreliable
+	"Bernalillo County, NM"	"35001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	19377	Unreliable
+	"Bernalillo County, NM"	"35001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	17	18208	Unreliable
+	"Bronx County, NY"	"36005"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	20834	Unreliable
+	"Bronx County, NY"	"36005"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	14	20421	Unreliable
+	"Bronx County, NY"	"36005"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	14	20992	Unreliable
+	"Bronx County, NY"	"36005"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	20108	Unreliable
+	"Bronx County, NY"	"36005"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	16	20582	Unreliable
+	"Bronx County, NY"	"36005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	19	20393	Unreliable
+	"Kings County, NY"	"36047"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	13	59607	Unreliable
+	"Kings County, NY"	"36047"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	14	52582	Unreliable
+	"Kings County, NY"	"36047"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	18	38631	Unreliable
+	"Kings County, NY"	"36047"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	46708	Unreliable
+	"Kings County, NY"	"36047"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	38757	Unreliable
+	"Kings County, NY"	"36047"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	61026	Unreliable
+	"Kings County, NY"	"36047"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	47012	Unreliable
+	"Kings County, NY"	"36047"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	39215	Unreliable
+	"Nassau County, NY"	"36059"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	30249	Unreliable
+	"Nassau County, NY"	"36059"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	27049	Unreliable
+	"Nassau County, NY"	"36059"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	31761	Unreliable
+	"Nassau County, NY"	"36059"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	38846	Unreliable
+	"Nassau County, NY"	"36059"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	30630	Unreliable
+	"Nassau County, NY"	"36059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	31025	Unreliable
+	"Nassau County, NY"	"36059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	36605	Unreliable
+	"New York County, NY"	"36061"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	59849	Unreliable
+	"New York County, NY"	"36061"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	46530	Unreliable
+	"New York County, NY"	"36061"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	40407	Unreliable
+	"New York County, NY"	"36061"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	39474	Unreliable
+	"New York County, NY"	"36061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	39311	Unreliable
+	"Queens County, NY"	"36081"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	42329	Unreliable
+	"Queens County, NY"	"36081"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	41742	Unreliable
+	"Queens County, NY"	"36081"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	18	41587	Unreliable
+	"Suffolk County, NY"	"36103"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	19	35109	Unreliable
+	"Suffolk County, NY"	"36103"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	22	44450	49.5
+	"Suffolk County, NY"	"36103"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	53844	Unreliable
+	"Suffolk County, NY"	"36103"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	15	38189	Unreliable
+	"Suffolk County, NY"	"36103"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	35207	Unreliable
+	"Suffolk County, NY"	"36103"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	13	36141	Unreliable
+	"Suffolk County, NY"	"36103"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	16	51732	Unreliable
+	"Suffolk County, NY"	"36103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	21	39252	53.5
+	"Suffolk County, NY"	"36103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	36307	Unreliable
+	"Suffolk County, NY"	"36103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	40867	Unreliable
+	"Suffolk County, NY"	"36103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	20	50542	39.6
+	"Mecklenburg County, NC"	"37119"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	24647	Unreliable
+	"Butler County, OH"	"39017"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	10412	Unreliable
+	"Cuyahoga County, OH"	"39035"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	27451	Unreliable
+	"Cuyahoga County, OH"	"39035"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	29362	Unreliable
+	"Cuyahoga County, OH"	"39035"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	28221	Unreliable
+	"Cuyahoga County, OH"	"39035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	24329	Unreliable
+	"Cuyahoga County, OH"	"39035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	26827	Unreliable
+	"Cuyahoga County, OH"	"39035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	24929	Unreliable
+	"Cuyahoga County, OH"	"39035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	24725	Unreliable
+	"Cuyahoga County, OH"	"39035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	13	27653	Unreliable
+	"Franklin County, OH"	"39049"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	28033	Unreliable
+	"Franklin County, OH"	"39049"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	19	28979	Unreliable
+	"Franklin County, OH"	"39049"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	13	27624	Unreliable
+	"Franklin County, OH"	"39049"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	12	39180	Unreliable
+	"Franklin County, OH"	"39049"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	14	32095	Unreliable
+	"Franklin County, OH"	"39049"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	19	32721	Unreliable
+	"Franklin County, OH"	"39049"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	18	29084	Unreliable
+	"Franklin County, OH"	"39049"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	16	28551	Unreliable
+	"Hamilton County, OH"	"39061"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	17482	Unreliable
+	"Hamilton County, OH"	"39061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	20492	Unreliable
+	"Hamilton County, OH"	"39061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	17855	Unreliable
+	"Montgomery County, OH"	"39113"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	13739	Unreliable
+	"Montgomery County, OH"	"39113"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	11444	Unreliable
+	"Montgomery County, OH"	"39113"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	12865	Unreliable
+	"Montgomery County, OH"	"39113"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	13533	Unreliable
+	"Montgomery County, OH"	"39113"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	12	13133	Unreliable
+	"Montgomery County, OH"	"39113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	13452	Unreliable
+	"Montgomery County, OH"	"39113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	11842	Unreliable
+	"Tulsa County, OK"	"40143"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	17586	Unreliable
+	"Tulsa County, OK"	"40143"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	15661	Unreliable
+	"Tulsa County, OK"	"40143"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	16182	Unreliable
+	"Tulsa County, OK"	"40143"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	13	15391	Unreliable
+	"Multnomah County, OR"	"41051"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	27554	Unreliable
+	"Multnomah County, OR"	"41051"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	26001	Unreliable
+	"Multnomah County, OR"	"41051"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	21998	Unreliable
+	"Multnomah County, OR"	"41051"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	26284	Unreliable
+	"Multnomah County, OR"	"41051"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	22426	Unreliable
+	"Multnomah County, OR"	"41051"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	28909	Unreliable
+	"Allegheny County, PA"	"42003"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	19	33706	Unreliable
+	"Allegheny County, PA"	"42003"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	34586	Unreliable
+	"Allegheny County, PA"	"42003"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	30134	Unreliable
+	"Allegheny County, PA"	"42003"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	24	33235	72.2
+	"Allegheny County, PA"	"42003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	34445	Unreliable
+	"Allegheny County, PA"	"42003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	19	34937	Unreliable
+	"Allegheny County, PA"	"42003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	16	29087	Unreliable
+	"Allegheny County, PA"	"42003"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	32175	Unreliable
+	"Allegheny County, PA"	"42003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	34873	Unreliable
+	"Allegheny County, PA"	"42003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	35225	Unreliable
+	"Allegheny County, PA"	"42003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	29948	Unreliable
+	"Allegheny County, PA"	"42003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	28400	Unreliable
+	"Allegheny County, PA"	"42003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	23	31472	73.1
+	"Bucks County, PA"	"42017"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	13	15340	Unreliable
+	"Bucks County, PA"	"42017"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	21087	Unreliable
+	"Bucks County, PA"	"42017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	15449	Unreliable
+	"Bucks County, PA"	"42017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	12	15069	Unreliable
+	"Delaware County, PA"	"42045"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	12243	Unreliable
+	"Delaware County, PA"	"42045"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	14102	Unreliable
+	"Delaware County, PA"	"42045"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	12	12270	Unreliable
+	"Delaware County, PA"	"42045"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	11008	Unreliable
+	"Delaware County, PA"	"42045"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	11584	Unreliable
+	"Delaware County, PA"	"42045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	13	14099	Unreliable
+	"Delaware County, PA"	"42045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	12200	Unreliable
+	"Delaware County, PA"	"42045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	11140	Unreliable
+	"Delaware County, PA"	"42045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	13346	Unreliable
+	"Luzerne County, PA"	"42079"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	8401	Unreliable
+	"Montgomery County, PA"	"42091"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	13	19557	Unreliable
+	"Montgomery County, PA"	"42091"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	13	19761	Unreliable
+	"Montgomery County, PA"	"42091"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	23745	Unreliable
+	"Montgomery County, PA"	"42091"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	14	19883	Unreliable
+	"Montgomery County, PA"	"42091"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	23405	Unreliable
+	"Philadelphia County, PA"	"42101"	"2008"	"2008"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	11	26130	Unreliable
+	"Philadelphia County, PA"	"42101"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	19	20393	Unreliable
+	"Philadelphia County, PA"	"42101"	"2008"	"2008"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	18	20934	Unreliable
+	"Philadelphia County, PA"	"42101"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	33863	Unreliable
+	"Philadelphia County, PA"	"42101"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	23	35827	64.2
+	"Philadelphia County, PA"	"42101"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	21	26887	78.1
+	"Philadelphia County, PA"	"42101"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	23	22619	101.7
+	"Philadelphia County, PA"	"42101"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	23	21854	105.2
+	"Philadelphia County, PA"	"42101"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	10	26163	Unreliable
+	"Philadelphia County, PA"	"42101"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	14	20059	Unreliable
+	"Philadelphia County, PA"	"42101"	"2009"	"2009"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	11	20443	Unreliable
+	"Philadelphia County, PA"	"42101"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	35576	Unreliable
+	"Philadelphia County, PA"	"42101"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	19	36373	Unreliable
+	"Philadelphia County, PA"	"42101"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	22	28181	78.1
+	"Philadelphia County, PA"	"42101"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	22704	Unreliable
+	"Philadelphia County, PA"	"42101"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	25	21482	116.4
+	"Philadelphia County, PA"	"42101"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	12	37113	Unreliable
+	"Philadelphia County, PA"	"42101"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	10	20346	Unreliable
+	"Philadelphia County, PA"	"42101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	14	36642	Unreliable
+	"Philadelphia County, PA"	"42101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	28	36804	76.1
+	"Philadelphia County, PA"	"42101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	29021	Unreliable
+	"Philadelphia County, PA"	"42101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	22673	Unreliable
+	"Philadelphia County, PA"	"42101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	27	21507	125.5
+	"Providence County, RI"	"44007"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	16958	Unreliable
+	"Providence County, RI"	"44007"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	18587	Unreliable
+	"Providence County, RI"	"44007"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	14	17977	Unreliable
+	"Providence County, RI"	"44007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	15744	Unreliable
+	"Davidson County, TN"	"47037"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	14216	Unreliable
+	"Bexar County, TX"	"48029"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	58131	Unreliable
+	"Bexar County, TX"	"48029"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	12	55800	Unreliable
+	"Bexar County, TX"	"48029"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	49480	Unreliable
+	"Bexar County, TX"	"48029"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	20	47747	41.9
+	"Bexar County, TX"	"48029"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	17	58220	Unreliable
+	"Bexar County, TX"	"48029"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	56825	Unreliable
+	"Bexar County, TX"	"48029"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	50793	Unreliable
+	"Bexar County, TX"	"48029"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	14	50089	Unreliable
+	"Bexar County, TX"	"48029"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	25	47855	52.2
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	18	58568	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	18	57670	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	17	51894	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	50394	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	48386	Unreliable
+	"Dallas County, TX"	"48113"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	12	53821	Unreliable
+	"Dallas County, TX"	"48113"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	16	63034	Unreliable
+	"Dallas County, TX"	"48113"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	14	73565	Unreliable
+	"Dallas County, TX"	"48113"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	64988	Unreliable
+	"Dallas County, TX"	"48113"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	60175	Unreliable
+	"Dallas County, TX"	"48113"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	62781	Unreliable
+	"Dallas County, TX"	"48113"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	73552	Unreliable
+	"Dallas County, TX"	"48113"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	67252	Unreliable
+	"Dallas County, TX"	"48113"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	13	59350	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	11	62293	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	15	62642	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	16	72887	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	68070	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	58901	Unreliable
+	"El Paso County, TX"	"48141"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	21939	Unreliable
+	"Harris County, TX"	"48201"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	17	105066	Unreliable
+	"Harris County, TX"	"48201"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	21	97851	21.5
+	"Harris County, TX"	"48201"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	15	106321	Unreliable
+	"Harris County, TX"	"48201"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	20	123976	16.1
+	"Harris County, TX"	"48201"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	14	115282	Unreliable
+	"Harris County, TX"	"48201"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	16	111411	Unreliable
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	11	116554	Unreliable
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	17	108745	Unreliable
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	13	106662	Unreliable
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	35	98071	35.7
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	22	127274	17.3
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	21	117819	17.8
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	17	112475	Unreliable
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	22	103075	21.3
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	11	116729	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	13	110830	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	13	106867	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	16	98727	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	13	109351	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	27	127316	21.2
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	14	119853	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	19	112377	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	30	103774	28.9
+	"Tarrant County, TX"	"48439"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	14	52721	Unreliable
+	"Tarrant County, TX"	"48439"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	48303	Unreliable
+	"Tarrant County, TX"	"48439"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	14	51808	Unreliable
+	"Tarrant County, TX"	"48439"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	50676	Unreliable
+	"Tarrant County, TX"	"48439"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	46820	Unreliable
+	"Tarrant County, TX"	"48439"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	53275	Unreliable
+	"Tarrant County, TX"	"48439"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	49301	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	50294	Unreliable
+	"Travis County, TX"	"48453"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	30179	Unreliable
+	"Salt Lake County, UT"	"49035"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	10	41586	Unreliable
+	"Salt Lake County, UT"	"49035"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	13	35558	Unreliable
+	"Salt Lake County, UT"	"49035"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	10	30440	Unreliable
+	"Salt Lake County, UT"	"49035"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	22	42978	51.2
+	"Salt Lake County, UT"	"49035"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	38073	Unreliable
+	"Salt Lake County, UT"	"49035"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	28451	Unreliable
+	"Salt Lake County, UT"	"49035"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	10	40834	Unreliable
+	"Salt Lake County, UT"	"49035"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	14	37078	Unreliable
+	"Salt Lake County, UT"	"49035"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	11	30991	Unreliable
+	"Salt Lake County, UT"	"49035"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	15	36578	Unreliable
+	"Salt Lake County, UT"	"49035"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	17	41957	Unreliable
+	"Salt Lake County, UT"	"49035"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	19	40006	Unreliable
+	"Salt Lake County, UT"	"49035"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	33071	Unreliable
+	"Salt Lake County, UT"	"49035"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	19	28695	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	10	31575	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	36348	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	18	42097	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	16	40352	Unreliable
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	19	33372	Unreliable
+	"Utah County, UT"	"49049"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	23010	Unreliable
+	"Utah County, UT"	"49049"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	19291	Unreliable
+	"Utah County, UT"	"49049"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	27118	Unreliable
+	"Utah County, UT"	"49049"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	23702	Unreliable
+	"King County, WA"	"53033"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	59140	Unreliable
+	"King County, WA"	"53033"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	16	59279	Unreliable
+	"King County, WA"	"53033"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	57033	Unreliable
+	"King County, WA"	"53033"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	10	51245	Unreliable
+	"King County, WA"	"53033"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	55994	Unreliable
+	"King County, WA"	"53033"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	57222	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	16	53379	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	46628	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	60057	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	56496	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	55798	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	57904	Unreliable
+	"Snohomish County, WA"	"53061"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	22118	Unreliable
+	"Snohomish County, WA"	"53061"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	13	20287	Unreliable
+	"Snohomish County, WA"	"53061"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	23111	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	22907	Unreliable
+	"Milwaukee County, WI"	"55079"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	22849	Unreliable
+	"Milwaukee County, WI"	"55079"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	16	20800	Unreliable
+	"Milwaukee County, WI"	"55079"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	21222	Unreliable
+	"Milwaukee County, WI"	"55079"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	10	19636	Unreliable
+	"Milwaukee County, WI"	"55079"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	14	27404	Unreliable
+	"Milwaukee County, WI"	"55079"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	14	23660	Unreliable
+	"Milwaukee County, WI"	"55079"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	20514	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	10	27288	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Drug/Alcohol Induced Causes: Drug-induced causes"
+"Five-Year Age Groups: 10-14 years; 15-19 years; 20-24 years; 25-29 years; 30-34 years; 35-39 years; 40-44 years"
+"Race: American Indian or Alaska Native; Asian or Pacific Islander; Black or African American; White"
+"Year/Month: 2008; 2009; 2010"
+"Group By: County; Year; Gender; Race; Five-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Mar 26, 2022 5:24:39 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Mar 26, 2022 5:24:39 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"2. Deaths for Allen Parish, Louisiana are under reported in years 2006 through 2008. See Caveats below for more information."
+"---"
+Caveats:
+"1. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"2. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"3. Data for Prince of Wales-Hyder Census Area, AK (FIPS code 02198), Hoonah-Angoon Census Area, AK (FIPS code 02105), Skagway"
+"Municipality, AK (FIPS code 02230), Petersburg Borough/Census Area, AK (FIPS code 02195) and Wrangell City and Borough, AK (FIPS"
+"code 02275) are only available for 2014 and later; for computational purposes, counts and population estimates for 2013 and"
+"earlier are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not include any data for years"
+"before 2014, only data for 2014 and later. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Alaska2014."
+"4. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death"
+"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code"
+"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;"
+"for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Clifton Forge."
+"5. Deaths for Allen Parish, Louisiana (FIPS code 22003] in years 2006 through 2008 are under reported due to problems with"
+"registering the deaths with the Louisiana Vital Statistics Office."
+"6. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"7. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"8. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"9. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"10. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age"
+"groups, so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"11. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"12. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."

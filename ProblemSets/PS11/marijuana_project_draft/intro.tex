@@ -1,0 +1,108 @@
+\documentclass[12pt]{article}%
+\usepackage{natbib}
+\usepackage[doublespacing]{setspace}
+\usepackage[margin=1in]{geometry}
+%\usepackage[sc]{titlesec}
+\usepackage{booktabs,hyperref,threeparttablex}
+\usepackage{multirow}
+\usepackage{tabularx}
+%\usepackage[nomarkers, nolists]{endfloat}
+\usepackage{siunitx}%for digit rounding
+\sisetup{
+        detect-mode,
+        tight-spacing           = true,
+        group-digits            = false,
+        input-signs             = ,
+        input-symbols           = ,
+        input-open-uncertainty  = ,
+        input-close-uncertainty = ,
+        table-align-text-pre    = false,
+        round-mode              = places,
+        round-precision         = 3,
+        table-space-text-pre    = (,
+        table-space-text-post   = ),
+        }
+\usepackage{adjustbox}
+
+\usepackage{color,soul}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tikz}
+\usepackage{arydshln}
+\usepackage{graphicx}
+\usepackage{pdflscape}
+
+\usepackage{ amsthm,mathrsfs}
+\usepackage{amssymb,latexsym,exscale}
+%\usepackage{graphics,graphicx}
+
+\usepackage{subcaption}
+\usepackage{times}
+\usepackage{cool}
+\usepackage{color}
+% \usepackage[bottom,flushmargin,hang,multiple]{footmisc}
+\usepackage{etoolbox}
+\usepackage{color,soul}
+
+\usepackage{graphicx}
+\usepackage{placeins}
+
+\usepackage{epstopdf}
+\usepackage{floatrow}
+\usepackage{siunitx}
+
+\usepackage{graphicx}
+\usepackage{float}
+
+\usepackage{placeins} % place items in the right position
+%\usepackage[font=small,skip=0pt]{caption} 
+%opening
+
+
+\usepackage{appendix}
+
+
+
+
+
+
+\begin{document}
+
+\section{Introduction}
+
+%% MM Vs. RM
+The pervasiveness of recreational marijuana legalization (RML) has become a controversial subject among politicians, researchers, and citizens. 
+%% consumption and crime
+Whereas medical marijuana (MM) has long been permissible in many states, legal in more than 30 states as of 2020 according to \cite{kinaSUR}, recreational marijuana (RM) has been legalized by merely 12 states as of 2020 \citep{kinaSUR}. The literature studied the effect of MM on different aspects extensively. Whereas\cite{wen2015effect,cerda2012medical,martins2016state} results showed that MM legalization leads to a higher use and addiction of marijuana, \cite{morris2014effect, gavrilova2019legal}  found that MM legalization have no effect on crime or even reduce certain crime rates such as that of  homicides and rape. Using Twitter data, \cite{kinaSUR} showed that consumption or use of marijuana concentrates are higher in states that legalized marijuana for recreational or medical use.  
+
+
+%Monitoring The Future (MTF) survey results
+In 2018-2019 academic year, over 20 percent of high school seniors reported vaping marijuana according to \cite{National_Institute_on_Drug_Abuse2019-wl}; the latter expressed alarming concerns about THC,a psychoactive ingredient of marijuana, vaping as not much is known about the effect of this THC vaping as opposed to smoking. Furthermore, the ubiquity of marijuana through recreational legalization have shifted cultural beliefs regarding marijuana usage among college students \citep{koval2019perceived}. According to \cite{pearson2018personality}, college culture that considers marijuana usage as an integral part of college experience (internalized norm) plays a major rule in how impulisvity and sensation seeking personality traits lead to more marijuana consumption among college students. In addition, there is a similar but high trend of marijuana usage among college and non-college youth with 44 percent of college students reported using marijuana and similar percentage (43 percent) of non-college youth \citep{schulenberg2021monitoring}.
+In light of the growing marijuana usage among college students along with the cultural shift inducing more marijuana consumption among college students, we intend to examine how RML affects undergraduate enrollments 
+\footnote{ We will also attempt to study other outcomes such as completion and graduation rates as IPEDS provide those outcomes, but we shall focus for now on enrollment outcome since the literature to the best of our knowledge didn't cover enrollment. }
+through using a panel data from IPEDS and other various sources. We also study heterogeneous effects on gender, enrollment by age, and enrollment types. Although it's difficult to pinpoint the exact mechanisms driving our results as marijuana consumption can be induced by many factors such as student's personality, prior drugs consumption , college drugs related culture, and regulation enforcement by local or college authorities, we will at least attempt to demonstrate that the observed effects are due in fact to marijuana consumption. 
+
+%% some related work 
+The literature examined the effect of marijuana legalization on educational outcomes, but non to our knowledge considered enrollment and most focus on limited geographical location without taking into account the legalization shocks cross states.
+ Using data from a cohort of 3246 students from 11 colleges in only two states, North Carolina and Virginia, \cite{suerken2016marijuana} examined the effect of marijuana use trajectories on academic outcomes (senior year enrollment, plans to graduate on time, and GPA). The findings show that compared to non-users, marijuana users of different consumption patterns have low likelihood of continued enrollment in senior years, low likelihood to plan to graduate from college on time, and lower GPAs on average. Nonetheless, this study doesn't not  take into consideration whether or not North Carolina and Virginia states legalized recreational marijuana. In this paper we focus on determining the effect of marijuana pervasiveness on academic outcomes, influx of students from high school to college in particular. In the same vein, marijuana use is negatively associated with GPA and graduation time through low class attendance \citep{arria2015academic}. Further, compared to non-users, marijuana users are more likely to drop out or finish the program late \citep{suerken2016marijuana}.
+
+Nonetheless, the effect of the proliferation of marijuana  legalization, mediated by an increase in consumption, on educational outcomes  is scant. Only few studies examined this effect. \citet{marie2017high} used a unique dataset of students grades in Maastricht city in the Netherlands and exploited the introduction of a policy that banned foreign nationalities from buying marijuana 
+\footnote{The city wanted to tackle the negative externalities associated with cannabis tourism through banning all nationalities but locals, Germans, and Belgians from purchasing marijuana at local shops.} 
+Their results align with the health studies that showed that marijuana consumption affects cognitive abilities essentially and consequently impact the quantitative
+performance. They also used class evaluation data to prove that the improvements in the grade among banned students were merely due to improved understanding in the classrooms. The
+placebo test for robustness check solidifies the findings, switching the policy time and placing false nationalities for the ban. 
+\cite{cerda2017association}  investigates the use and the perceived harm of recreational marijuana (RM) among 8th and 10th graders. Using diff-in-diff specification to study how RM legalization in Washington and Colorado states, the first to legalize marijuana, affected high school student consumption of marijuana along with the associated harm perception, they found that marijuana use (perceived marijuana harm) among 8th and 10th graders in Washington increased (decreased); they found though no significant difference in use pre and post RML in Colorado. We contribute to this literature by first using institution, community colleges, colleges, and universities, level data (IPEDS) coupled with county level covariates which enable controlling for time and county level fixed effects as well as institution characteristics. While it's arguable whether the shock is exogenous as social movements could have triggered states to legalize RM, we exploit the panel format of the data through using diff-in-diff and synthetic control \footnote{I'm still learning this method, so it may be implemented if time allows} specifications. We also use falsification or placebo tests for further robustness check.
+
+We find  a positive associated between RML and enrollment overall \footnote{I actually just found positive association but i'm yet to incorporate other covariates. Thus, the results may change based on what I observe next. This section is really not fixed as it depends on my actual results}. With the growing internalization norms of marijuana use in colleges, We hypothesis that high school students especially those from high socioeconomic families choose to complete their undergraduate education in states that legalized RM. We are also examining the effect on enrollment ages. The current hypothesis is that RM delays the age of enrollment; probably high school students who consume marijuana extensively delay their college enrollment. We further examine the long term vs short term effects; we hypothesis that the effect is probably increasing in the long term as more and more states legalize RM. The fading effect in the long term won't be surprising either as society adjusts to the new legal status of RM.
+
+The paper proceeds as follow. In next section, we discuss related literature. The third section presents data and summary statistics followed by the model equation and description. Finally, we present the results, discussion and conclusion. 
+
+
+\newpage
+%\singlespacing
+\setlength\bibsep{0pt}
+\bibliographystyle{chicago}
+\bibliography{references.bib}
+
+\end{document}
